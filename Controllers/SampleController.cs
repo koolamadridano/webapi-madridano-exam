@@ -14,9 +14,7 @@ using SignalRChat;
 
 namespace SharpDevelopWebApi.Controllers
 {
-	/// <summary>
-	/// Description of ValuesController.
-	/// </summary>
+
 	public class SampleController : ApiController
 	{
 		[HttpGet]
